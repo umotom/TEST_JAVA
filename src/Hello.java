@@ -11,6 +11,8 @@ public class Hello {
 		System.out.println("from github001");
 		
 		System.out.println("feture/001 一回目");
+		
+		System.out.println("001");
 	}
 
 }
