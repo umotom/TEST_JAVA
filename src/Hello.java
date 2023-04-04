@@ -13,6 +13,8 @@ public class Hello {
 		System.out.println("feture/001 一回目");
 		
 		System.out.println("upstream用");
+		
+		System.out.println("How binary file");
 	}
 
 }
