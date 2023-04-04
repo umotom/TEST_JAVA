@@ -14,6 +14,9 @@ public class Hello {
 		
 		System.out.println("001");
 		System.out.println("002");
+		System.out.println("upstream用");
+		
+		System.out.println("How binary file");
 	}
 
 }
