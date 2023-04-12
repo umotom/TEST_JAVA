@@ -7,5 +7,9 @@ public class A_test {
 	
 	private void bbb() {
 		System.out.println("bbb");
+	
+	}
+	private void ccc() {
+		System.out.println("ccc");
 	}
 }
