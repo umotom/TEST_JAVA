@@ -1,3 +1,4 @@
+package defo;
 
 public class A_test {
 	private void aaa() {
