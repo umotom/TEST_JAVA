@@ -4,4 +4,8 @@ public class A_test {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("aaa");
 	}
+	
+	private void ccc() {
+		System.out.println("ccc");
+	}
 }
